@@ -5,3 +5,4 @@ services:
     image: web:3.0
     ports:
       - "8888:80"
+ 
